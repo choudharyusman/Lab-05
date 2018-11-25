@@ -15,7 +15,7 @@ for sub in range(3):
         print("Please try again")
         break
 
-print("_"*30)
+print(u"\u25A0"*30)
 print (": Subjects    : Score:")
 
 
